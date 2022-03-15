@@ -1,0 +1,21 @@
+{
+    "name": "Deploiement",
+    "short_name": "Deploiement",
+    "theme_color": "#06384c",
+    "background_color": "#06384c",
+    "display": "fullscreen",
+    "scope": "/",
+    "start_url": "/",
+    "icons": [
+        {
+            "src": "/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
