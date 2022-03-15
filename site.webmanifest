@@ -4,8 +4,6 @@
     "theme_color": "#06384c",
     "background_color": "#06384c",
     "display": "fullscreen",
-    "scope": "/PWA",
-    "start_url": "/PWA",
     "icons": [
         {
             "src": "android-chrome-192x192.png",
